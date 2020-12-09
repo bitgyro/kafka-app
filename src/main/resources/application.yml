@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: kafkaApp
+kafka.bootstrap.servers: localhost:9092
